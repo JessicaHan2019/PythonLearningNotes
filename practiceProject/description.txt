@@ -1,1 +1,2 @@
 Pyshop
+uncompleted files: some default setting files are unincluded.
